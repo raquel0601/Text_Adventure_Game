@@ -1,4 +1,4 @@
-# Text_Adventure_Name
+# Text_Adventure_Game
        This is a small text adventure game based on Charlie and the Chocolate Factory movie, 
        a 2005 musical fantasy film directed by Tim Burton and written by John August, based
        on the 1964 British novel of the same name by Roald Dahl. The main objective of this 
