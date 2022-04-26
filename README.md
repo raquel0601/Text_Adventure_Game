@@ -13,4 +13,4 @@
           >Win or Fail
        
        Each room has a different activity and the user cannot fail the game before getting 
-       to the Final_room. 
+       into the Final_room. 
